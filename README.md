@@ -5,8 +5,7 @@ This project was created to practice front-end fundamentals while showcasing cer
 
 ---
 
-## ✨ Features
-- Responsive **navigation bar** with active link highlight  
+## ✨ Features 
 - Grid-based **gallery section** with product cards  
 - **About & Contact** section for simple branding  
 - Clean **typography** with Google Fonts (Cormorant)  
